@@ -1,0 +1,36 @@
+{
+  "name": "webpack-angular",
+  "version": "1.0.0",
+  "description": "Example of using webpack with an angular project",
+  "main": "webpack.config.js",
+  "author": "Yulia Savich",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-material": "^1.1.0-rc.5",
+    "autoprefixer-loader": "^3.1.0",
+    "babel": "^6.5.2",
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "css-loader": "^0.21.0",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.4",    
+    "jade": "^1.11.0",
+    "jade-loader": "^0.7.1",
+    "lodash": "^4.13.1",
+    "node-static": "^0.7.7",
+    "style-loader": "^0.13.1",
+    "stylus-loader": "^1.4.0",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-es2016": "^6.0.11",
+    "babel-runtime": "^6.9.2",
+    "g": "^2.0.1",
+    "loader": "^2.1.1"
+  }
+}
