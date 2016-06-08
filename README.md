@@ -1,14 +1,14 @@
-Подготовить Webpack инфраструктуру для AngularJS 1.5 проекта. Требования:
+п»їРџРѕРґРіРѕС‚РѕРІРёС‚СЊ Webpack РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂСѓ РґР»СЏ AngularJS 1.5 РїСЂРѕРµРєС‚Р°. РўСЂРµР±РѕРІР°РЅРёСЏ:
 
-1. Модульная структура проекта (см. общую идею здесь https://learn.javascript.ru/webcomponents-intro).
+1. РњРѕРґСѓР»СЊРЅР°СЏ СЃС‚СЂСѓРєС‚СѓСЂР° РїСЂРѕРµРєС‚Р° (СЃРј. РѕР±С‰СѓСЋ РёРґРµСЋ Р·РґРµСЃСЊ https://learn.javascript.ru/webcomponents-intro).
 
-2. Поддержка watch и live-reload.
+2. РџРѕРґРґРµСЂР¶РєР° watch Рё live-reload.
 
-3. Поддержка ES 2016.
+3. РџРѕРґРґРµСЂР¶РєР° ES 2016.
 
-4. Поддержка less.
+4. РџРѕРґРґРµСЂР¶РєР° less.
 
-5. Библиотеки: 
+5. Р‘РёР±Р»РёРѕС‚РµРєРё: 
 	a. https://angularjs.org/ (1.5) 
 	b. https://material.angularjs.org/latest/demo/button 
 	c. https://lodash.com/docs
